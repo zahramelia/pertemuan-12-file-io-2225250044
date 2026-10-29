@@ -1,0 +1,3 @@
+Belajar File Input-Output Python
+Ini adalah latihan pertama.
+Ini adalah tambahan dari latihan ketiga.
